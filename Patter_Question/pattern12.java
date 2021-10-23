@@ -1,4 +1,3 @@
-package Patter_Question;
 
 /*
 
@@ -10,6 +9,7 @@ package Patter_Question;
 1 5 10 10 5 1
 
 */
+package Patter_Question;
 
 import java.util.Scanner;
 
